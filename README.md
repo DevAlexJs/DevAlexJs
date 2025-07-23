@@ -28,7 +28,7 @@ Soy **Diego**, también conocido como **Alex**.
 
 - ⏱️ Programando desde los 14 años con visión modular  
 - 🤖 Autor de **Stellar**, un bot para WhatsApp con edición de subbots, sesiones premium y múltiples modos personalizados  
-- 🔗 Creador de una API pública segura con apikey: [`**Api**`](https://api.stellarwa.xyz)
+- 🔗 Creador de una API pública segura con apikey: [`Api`](https://api.stellarwa.xyz)
 
 ---
 
