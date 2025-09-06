@@ -24,7 +24,7 @@
 ## 🌹 ¿Quién soy?
 
 Soy **Diego**, también conocido como **Alex**.  
-🚀 Desarrollador colombiano de 16 años, especializado en sistemas dinámicos, seguros y escalables.
+🚀 Desarrollador colombiano de 17 años, especializado en sistemas dinámicos, seguros y escalables.
 
 - ⏱️ Programando desde los 14 años con visión modular  
 - 🤖 Autor de **Stellar**, un bot para WhatsApp con edición de subbots, sesiones premium y múltiples modos personalizados  
