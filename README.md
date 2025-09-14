@@ -15,14 +15,13 @@
 
 ## 🧠 Sobre mí
 
-**Nombre:** Diego (también conocido como Alex)  
-**Fecha de nacimiento:** 6 de septiembre de 2008  
-**Ubicación:** Colombia  
-**Rol:** Desarrollador fullstack con enfoque en modularidad, seguridad y escalabilidad
-
-- Programando desde los 14 años con visión estructural y estética
-- Autor de **Stellar**, bot para WhatsApp con subbots editables, sesiones premium y modos personalizados
-- Creador de una API pública segura con apikey: [`api.stellarwa.xyz`](https://api.stellarwa.xyz)
+| Campo               | Detalle                                      |
+|---------------------|----------------------------------------------|
+| **Nombre**          | Diego (también conocido como Alex)           |
+| **Fecha de nacimiento** | 6 de septiembre de 2008                  |
+| **Ubicación**       | Colombia                            |
+| **Rol**             | Desarrollador fullstack                      |
+| **Especialidad**    | Sistemas modulares, seguros y escalables     |
 
 ---
 
@@ -34,19 +33,37 @@
 
 ---
 
-## 🌾 Proyectos destacados
+## 🚀 Proyectos destacados
 
-- **Stellar WaBot:** sistema modular para WhatsApp con lógica RPG, gacha, cooldowns y visualización de stats
-- **Sakura Bot:** un bot publico, con comandos básicos pero un buen Bot
-- **API Stellar:** acceso seguro con apikey, documentación clara y endpoints personalizados
+| Proyecto         | Descripción breve                                                                 |
+|------------------|------------------------------------------------------------------------------------|
+| **Stellar WaBot**| Bot modular para WhatsApp con lógica RPG, gacha, cooldowns y visualización de stats |
+| **Sakura Bot**   | Bot público con comandos básicos, precursor de Stellar                           **  | API segura con apikey, documentación clara y endpoints personalizados             |
 
 ---
 
-## 🚩 Filosofía de desarrollo
+## 🤝 Colaboraciones y contribuciones
+
+- Participación en comunidades de desarrollo de bots y APIs
+- Reconocimiento a colaboradores en migraciones como la de **SakuraBot → Stellar WaBot**
+- Integración de sistemas de combate, evolución y gestión de personajes en entornos RPG
+- Curaduría de documentación estética y funcional para proyectos compartidos
+
+---
+
+## 🧭 Filosofía de desarrollo
 
 > Cada línea de código debe tener propósito, estética y persistencia.  
 > Cada migración debe ser clara, ética y memorable.  
 > Cada colaboración merece reconocimiento justo.
+
+---
+
+## 📡 Enlaces útiles
+
+- [API pública Stellar](https://api.stellarwa.xyz)
+- [Perfil GitHub](https://github.com/DevAlexJs)
+- [Repositorio de Sakura](https://github.com/DevAlexJs/SakuraBot-MD)
 
 ---
 
