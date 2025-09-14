@@ -13,6 +13,11 @@
 
 ---
 
+> [!TIP]
+> Este es mi perfil básico, donde estará una pequeña información sobre mí, dejen su estrellita y siganme. Gracias!
+
+---
+
 
 ## 🧪 Lenguajes
 
