@@ -25,7 +25,7 @@
 
 ---
 
-## 🧪 Lenguajes y tecnologías
+## 🧪 Lenguajes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAlexJs&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFA07A&icon_color=40E0D0&text_color=E0FFFF&bg_color=0,1F1C2C,928DAB" width="320" alt="Top languages"/>
@@ -33,29 +33,12 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## ⭐ Proyectos destacados
 
-| Proyecto         | Descripción breve                                                                 |
+| Proyecto         | Descripción                                                                 |
 |------------------|------------------------------------------------------------------------------------|
 | **Stellar WaBot**| Bot modular para WhatsApp con lógica RPG, gacha, cooldowns y visualización de stats |
 | **Sakura Bot**   | Bot público con comandos básicos, precursor de Stellar                           **  | API segura con apikey, documentación clara y endpoints personalizados             |
-
----
-
-## 🤝 Colaboraciones y contribuciones
-
-- Participación en comunidades de desarrollo de bots y APIs
-- Reconocimiento a colaboradores en migraciones como la de **SakuraBot → Stellar WaBot**
-- Integración de sistemas de combate, evolución y gestión de personajes en entornos RPG
-- Curaduría de documentación estética y funcional para proyectos compartidos
-
----
-
-## 🧭 Filosofía de desarrollo
-
-> Cada línea de código debe tener propósito, estética y persistencia.  
-> Cada migración debe ser clara, ética y memorable.  
-> Cada colaboración merece reconocimiento justo.
 
 ---
 
