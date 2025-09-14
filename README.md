@@ -27,7 +27,8 @@
 
 ---
 
-## 🧠 Sobre mí
+<details>
+  <summary><b>🗽 Sobre mí</b></summary
 
 | Campo               | Detalle                                      |
 |---------------------|----------------------------------------------|
@@ -35,16 +36,21 @@
 | **Fecha de nacimiento** | 6 de septiembre de 2008                  | 
 | **Edad** | 17 años                  |
 | **Ubicación**       | Colombia                            |
-| **Rol**             | Developer |                     
+| **Rol**             | Developer | 
+
+</details>                    
 
 ---
 
-## ⭐ Proyectos destacados
+<details>
+  <summary><b🦠 Proyectos</b></summary
 
 | Proyecto         | Descripción                                                                 |
 |------------------|------------------------------------------------------------------------------------|
 | **Stellar WaBot**| Bot modular para WhatsApp con lógica RPG, gacha, cooldowns y visualización de stats |
 | **Sakura Bot**   | Bot público con comandos básicos, precursor de Stellar                             | API segura con apikey, documentación clara y endpoints personalizados             |
+
+</details>
 
 ---
 
