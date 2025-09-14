@@ -27,10 +27,10 @@
 | Campo               | Detalle                                      |
 |---------------------|----------------------------------------------|
 | **Nombre**          | Diego (también conocido como Alex)           |
-| **Fecha de nacimiento** | 6 de septiembre de 2008                  |
+| **Fecha de nacimiento** | 6 de septiembre de 2008                  | 
+| **Edad** | 17 años                  |
 | **Ubicación**       | Colombia                            |
-| **Rol**             | Desarrollador fullstack                      |
-| **Especialidad**    | Sistemas modulares, seguros y escalables     |
+| **Rol**             | Developer |                     
 
 ---
 
