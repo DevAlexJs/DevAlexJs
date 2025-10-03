@@ -3,11 +3,11 @@
 <h1 align="center">Bienvenido(a) 🦠</h1>
 
 <p align="center">
-  <img src="https://github.com/DevAlexJs.png" width="160" alt="Avatar" />
+  <img src="https://github.com/DevZyxlJs.png" width="160" alt="Avatar" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevAlexJs"><strong>@DevAlexJs</strong></a><br />
+  <a href="https://github.com/DevZyxlJs"><strong>@DevZyxlJs</strong></a><br />
   <span style="color:#20C4FA; font-weight:bold;">Perfil básico sobre mí</span>
 </p>
 
@@ -69,8 +69,8 @@ Soy Diego, también conocido como Alex.
 ## 🐸 Enlaces útiles
 
 - [API pública Stellar](https://api.stellarwa.xyz)
-- [Perfil GitHub](https://github.com/DevAlexJs)
-- [Repositorio de Sakura](https://github.com/DevAlexJs/SenkoBot-MD)
+- [Perfil GitHub](https://github.com/DevZyxlJs)
+- [Repositorio de Sakura](https://github.com/DevZyxlJs/SenkoBot-MD)
 
 ---
 
