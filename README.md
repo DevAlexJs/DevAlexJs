@@ -62,7 +62,7 @@ Soy Diego, también conocido como Alex.
 | Proyecto         | Descripción                                                                 |
 |------------------|------------------------------------------------------------------------------------|
 | **Stellar WaBot**| Bot modular para WhatsApp con lógica RPG, gacha, cooldowns y visualización de stats |
-| **Sakura Bot**   | Bot público con comandos básicos, precursor de Stellar                             | API segura con apikey, documentación clara y endpoints personalizados             |
+| **Senko Bot**   | Bot público con comandos básicos, precursor de Stellar                             | API segura con apikey, documentación clara y endpoints personalizados             |
 
 ---
 
@@ -70,7 +70,7 @@ Soy Diego, también conocido como Alex.
 
 - [API pública Stellar](https://api.stellarwa.xyz)
 - [Perfil GitHub](https://github.com/DevAlexJs)
-- [Repositorio de Sakura](https://github.com/DevAlexJs/SakuraBot-MD)
+- [Repositorio de Sakura](https://github.com/DevAlexJs/SenkoBot-MD)
 
 ---
 
